@@ -57,9 +57,11 @@ FEATURES:
 
 # SCREENSHOTS
 MAIN SCREEN:
-![Screenshot (9)](Screenshot (131).jpg)
+![Screenshot (129)](https://github.com/user-attachments/assets/2c264057-90d2-451e-a7df-2f085b27b580)
+
 
 TAKING ATTENDANCE:
-![Screenshot (10)](Screenshot (131).jpg)
+![Screenshot (131)](https://github.com/user-attachments/assets/d0723ecf-d42a-4380-b367-869c4c2a526f)
+
 
 
